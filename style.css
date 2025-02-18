@@ -1,5 +1,5 @@
 body{
-   background-color: peachpuff;
+   background-color: brown;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  
  }
@@ -10,7 +10,7 @@ body{
     color: black;
  }
  nav ul{
-    background-color: sandybrown;
+    background-color: green;
     border: 5px solid seashell;
     border-radius: 10px;
     padding: 10px;
